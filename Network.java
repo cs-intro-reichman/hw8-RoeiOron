@@ -52,6 +52,7 @@ public class Network {
         users[userCount] = new User(name);
 
         userCount++;
+        return true;
     }
 
 
